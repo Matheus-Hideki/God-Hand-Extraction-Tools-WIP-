@@ -11,3 +11,9 @@ there are two scripts in the folder.... the "god_hand_mdto3ds" is the one that c
 you should download quickbms:
 http://aluigi.altervista.org/quickbms.htm
 it's a model extractor, it works with a TXT script, which is the one shown above
+
+
+
+
+there is no build for it yet, so there's only source code, to get this working you should use unity 2017.4.40, which can be downloaded here https://unity.com/releases/editor/archive#download-archive-2017
+you can acess the model importer-exporter through the unity top bar
